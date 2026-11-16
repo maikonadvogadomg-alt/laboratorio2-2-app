@@ -1,0 +1,31 @@
+{
+  "titulo": "laboratorio2",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "ferramentas/colador.html",
+      "nome": "Colador de Links",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    },
+    {
+      "path": "ferramentas/meu-chat/index.html",
+      "nome": "Meu Chat",
+      "desc": "",
+      "on": true,
+      "icone": "ferramentas/meu-chat/icons/icon-192.png"
+    },
+    {
+      "path": "index.html",
+      "nome": "🔬 Laboratório 2",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "dourado",
+  "links": []
+}
